@@ -1,6 +1,6 @@
 {
+  "url": "https://github.com/tree-sitter/tree-sitter-jsdoc",
   "semver": false,
   "parser_version": "658d18dcdddb75c760363faa4963427a7c6b52db",
-  "url": "https://github.com/tree-sitter/tree-sitter-jsdoc",
   "lang": "jsdoc"
 }
